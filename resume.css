@@ -1,0 +1,24 @@
+.pic_resume{
+    width: 160px;
+    height:160px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 20px 30px 0 50px;
+    
+   
+    }
+    
+.skills{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    padding: 5px;
+    justify-items: center;
+
+}
+.right{
+    padding: 10px;
+}
